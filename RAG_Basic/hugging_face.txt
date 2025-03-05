@@ -1,0 +1,6 @@
+Check downloaded model:
+- `cd ~/.cache/huggingface/hub`
+
+Transformers:
+- https://huggingface.co/jinaai/jina-embeddings-v2-base-de
+- sentence-transformers/all-mpnet-base-v2

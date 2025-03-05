@@ -1,0 +1,1 @@
+- always use lower case for output
