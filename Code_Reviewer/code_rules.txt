@@ -1,1 +1,4 @@
 - always use lower case for output
+- Only review line that start with `<CHANGED_LINE>` tag
+- Line always start with `<NEW_LINE>` tag
+- `<CHANGED_LINE>` and `<NEW_LINE>` is not part of code

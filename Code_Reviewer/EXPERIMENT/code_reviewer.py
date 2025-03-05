@@ -47,7 +47,7 @@ prompt_template = PromptTemplate.from_template(
        - Ignore all other lines.  
        - The first line of the provided code starts at **line {start_line}** in `{file_name}`.  
        - Each `<CHANGED_LINE>` corresponds to its actual line number in the file.
-       - Return empty list if there is no `<CHANGED_LINE>` or all code meet the rules
+       - Return empty string if there is no `<CHANGED_LINE>` or all code meet the rules
 
     2️⃣ Identify and report only the following issues:  
         - Code redundancy  
