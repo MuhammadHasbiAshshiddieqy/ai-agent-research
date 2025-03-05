@@ -1,0 +1,37 @@
+name: 'AI Reviewer'
+description: 'Composite GitHub Action to set up Python and run a Python script'
+inputs:
+  python_version:
+    description: 'The Python version to use'
+    required: false
+    default: '3.x'
+runs:
+  using: 'composite'
+  steps:
+    # Step 3: Install dependencies (optional)
+    - name: Install dependencies
+      shell: bash
+      run: |
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        fi
+
+    # Step 4: Get the repository name from GitHub context
+    - name: Get Repository Info
+      shell: bash
+      run: |
+        REPO_NAME=$(echo $GITHUB_REPOSITORY | cut -d '/' -f2)
+        PR_NUMBER=${{ github.event.pull_request.number }}
+
+        echo "REPO_NAME=$REPO_NAME" >> $GITHUB_ENV
+        echo "PR_NUMBER=$PR_NUMBER" >> $GITHUB_ENV
+
+        echo "Repository Name: $REPO_NAME"
+        echo "Pull Request Number: $PR_NUMBER"
+
+    # Step 6: Run the Python script
+    - name: Run Python script
+      shell: bash
+      run: | 
+        pip3 install langchain_ollama
+        python3 ${{ github.action_path }}/ai-reviewer.py

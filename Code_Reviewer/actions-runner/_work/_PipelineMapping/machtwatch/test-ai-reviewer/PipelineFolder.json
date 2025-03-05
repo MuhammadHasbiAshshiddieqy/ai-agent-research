@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "machtwatch/test-ai-reviewer",
+  "pipelineDirectory": "test-ai-reviewer",
+  "workspaceDirectory": "test-ai-reviewer/test-ai-reviewer",
+  "repositories": {
+    "machtwatch/test-ai-reviewer": {
+      "repositoryPath": "test-ai-reviewer/test-ai-reviewer",
+      "lastRunOn": "03/05/2025 16:50:12 +07:00"
+    }
+  },
+  "lastRunOn": "03/05/2025 17:46:06 +07:00"
+}

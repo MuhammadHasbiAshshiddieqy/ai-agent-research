@@ -1,0 +1,283 @@
+[2025-03-05 09:45:52Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'Credentials': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'Runner': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.runner'
+[2025-03-05 09:45:52Z INFO Listener] Runner is built for OSX (Arm64) - osx-arm64.
+[2025-03-05 09:45:52Z INFO Listener] RuntimeInformation: Darwin 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:16 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6000.
+[2025-03-05 09:45:52Z INFO Listener] Version: 2.322.0
+[2025-03-05 09:45:52Z INFO Listener] Commit: 0edc478ca75d0a753dcbcec7405f3f26db67b1ac
+[2025-03-05 09:45:52Z INFO Listener] Culture: en-ID
+[2025-03-05 09:45:52Z INFO Listener] UI Culture: en-ID
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO Listener] Validating directory permissions for: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO CommandLineParser] Parse
+[2025-03-05 09:45:52Z INFO CommandLineParser] Parsing 1 args
+[2025-03-05 09:45:52Z INFO CommandLineParser] parsing argument
+[2025-03-05 09:45:52Z INFO CommandLineParser] HasArgs: False
+[2025-03-05 09:45:52Z INFO CommandLineParser] Adding Command: run
+[2025-03-05 09:45:52Z INFO Listener] Arguments parsed
+[2025-03-05 09:45:52Z INFO Runner] ExecuteCommand
+[2025-03-05 09:45:52Z INFO ConfigurationStore] currentAssemblyLocation: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Listener.dll
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] binPath: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] RootFolder: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'Runner': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.runner'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] ConfigFilePath: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.runner
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'Credentials': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] CredFilePath: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_migrated'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] MigratedCredFilePath: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_migrated
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'Service': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.service'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.service
+[2025-03-05 09:45:52Z INFO CommandSettings] Flag 'help': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Flag 'version': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Flag 'check': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Command 'configure': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Command 'remove': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-03-05 09:45:52Z INFO ConfigurationManager] LoadSettings
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsConfigured()
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-05 09:45:52Z INFO ConfigurationManager] Is configured: True
+[2025-03-05 09:45:52Z INFO ConfigurationStore] Read setting file: 302 chars
+[2025-03-05 09:45:52Z INFO ConfigurationManager] Settings Loaded
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-03-05 09:45:52Z INFO CommandSettings] Command 'run': 'True'
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsConfigured()
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-05 09:45:52Z INFO ConfigurationManager] Is configured: True
+[2025-03-05 09:45:52Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-03-05 09:45:52Z INFO Runner] Set runner startup type - Manual
+[2025-03-05 09:45:52Z INFO CommandSettings] Flag 'once': 'False'
+[2025-03-05 09:45:52Z INFO CommandSettings] Flag 'once': 'False'
+[2025-03-05 09:45:52Z INFO Runner] RunAsync
+[2025-03-05 09:45:52Z INFO ConfigurationManager] LoadSettings
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsConfigured()
+[2025-03-05 09:45:52Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-05 09:45:52Z INFO ConfigurationManager] Is configured: True
+[2025-03-05 09:45:52Z INFO ConfigurationManager] Settings Loaded
+[2025-03-05 09:45:52Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "hasbi-mac",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/adxekUf0FAqawZcchVgIYZ4BjeDdht0elLosGazJzymHX3YEyU/",
+  "GitHubUrl": "https://github.com/machtwatch/test-ai-reviewer",
+  "WorkFolder": "_work"
+}
+[2025-03-05 09:45:52Z INFO MessageListener] Loading Credentials
+[2025-03-05 09:45:52Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 09:45:52Z INFO ConfigurationStore] stored True
+[2025-03-05 09:45:52Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 09:45:52Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 09:45:52Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:45:52Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 09:45:52Z INFO HostContext] Well known config file 'RSACredentials': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams'
+[2025-03-05 09:45:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:45:52Z INFO MessageListener] Attempt to create session.
+[2025-03-05 09:45:52Z INFO MessageListener] Connecting to the Runner Server...
+[2025-03-05 09:45:52Z INFO RunnerServer] EstablishVssConnection
+[2025-03-05 09:45:52Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-03-05 09:45:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 09:45:52Z INFO RunnerServer] EstablishVssConnection
+[2025-03-05 09:45:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-03-05 09:45:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 09:45:52Z INFO RunnerServer] EstablishVssConnection
+[2025-03-05 09:45:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-03-05 09:45:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 09:45:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 09:45:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 09:45:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 09:45:53Z INFO MessageListener] VssConnection created
+[2025-03-05 09:45:53Z INFO Terminal] WRITE LINE: 
+[2025-03-05 09:45:53Z INFO Terminal] WRITE LINE: 
+[2025-03-05 09:45:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:45:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:45:54Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 09:45:55Z INFO MessageListener] Session created.
+[2025-03-05 09:45:55Z INFO Terminal] WRITE LINE: Current runner version: '2.322.0'
+[2025-03-05 09:45:55Z INFO Terminal] WRITE LINE: 2025-03-05 09:45:55Z: Listening for Jobs
+[2025-03-05 09:45:55Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-03-05 09:45:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:45:56Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 09:50:05Z INFO MessageListener] Message '2081730886685100726' received from session 'fa3b52c2-c7b2-48a9-9a4e-d1479b6e9582'.
+[2025-03-05 09:50:05Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 09:50:05Z INFO ConfigurationStore] stored True
+[2025-03-05 09:50:05Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 09:50:05Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 09:50:05Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 09:50:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:50:05Z INFO ActionsRunServer] EstablishVssConnection
+[2025-03-05 09:50:05Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-03-05 09:50:05Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 09:50:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 09:50:07Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:50:07Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:50:08Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 09:50:09Z INFO JobDispatcher] Job request 3 for plan ba340e38-c419-4b4c-98eb-1e61f55acdfd job cad215eb-fcc7-536d-22da-ec9d20430cdf received.
+[2025-03-05 09:50:09Z INFO JobDispatcher] Pull OrchestrationId ba340e38-c419-4b4c-98eb-1e61f55acdfd.auto-review.__default from JWT claims
+[2025-03-05 09:50:09Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-03-05 09:50:09Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-03-05 09:50:09Z INFO Terminal] WRITE LINE: 2025-03-05 09:50:09Z: Running job: auto-review
+[2025-03-05 09:50:09Z INFO JobDispatcher] Start renew job request 3 for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 09:50:10Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 05/03/2025 10.00.10
+[2025-03-05 09:50:10Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper] Starting process:
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   File name: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Worker'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 150 153'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Working directory: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-03-05 09:50:10Z INFO ProcessInvokerWrapper] Process started with process id 36895, waiting for process exit.
+[2025-03-05 09:50:10Z INFO JobDispatcher] Send job request message to worker for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 09:50:10Z INFO ProcessChannel] Sending message of length 45494, with hash 'f1293dc6474d250df8b20a3680fe699b512c84fa66498bab05520d464090a97a'
+[2025-03-05 09:50:11Z INFO JobNotification] Entering JobStarted Notification
+[2025-03-05 09:50:11Z INFO JobNotification] Entering StartMonitor
+[2025-03-05 09:50:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 09:50:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 09:50:19Z INFO ProcessInvokerWrapper] Finished process 36895 with exit code 102, and elapsed time 00:00:08.3960112.
+[2025-03-05 09:50:19Z INFO JobDispatcher] Worker finished for job cad215eb-fcc7-536d-22da-ec9d20430cdf. Code: 102
+[2025-03-05 09:50:19Z INFO JobDispatcher] finish job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf with result: Failed
+[2025-03-05 09:50:19Z INFO Terminal] WRITE LINE: 2025-03-05 09:50:19Z: Job auto-review completed with result: Failed
+[2025-03-05 09:50:19Z INFO JobDispatcher] Stop renew job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 09:50:19Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 3.
+[2025-03-05 09:50:19Z INFO JobNotification] Entering JobCompleted Notification
+[2025-03-05 09:50:19Z INFO JobNotification] Entering EndMonitor
+[2025-03-05 09:50:19Z INFO MessageListener] Received job status event. JobState: Online
+[2025-03-05 09:56:55Z INFO MessageListener] Message '4375028357627627373' received from session 'fa3b52c2-c7b2-48a9-9a4e-d1479b6e9582'.
+[2025-03-05 09:56:55Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 09:56:55Z INFO ConfigurationStore] stored True
+[2025-03-05 09:56:55Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 09:56:55Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 09:56:55Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 09:56:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:56:55Z INFO ActionsRunServer] EstablishVssConnection
+[2025-03-05 09:56:55Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-03-05 09:56:55Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 09:56:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 09:56:56Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:56:56Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 09:56:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 09:56:58Z INFO JobDispatcher] Job request 4 for plan dd1c441b-6659-431c-aea0-716ff1bcaa05 job cad215eb-fcc7-536d-22da-ec9d20430cdf received.
+[2025-03-05 09:56:58Z INFO JobDispatcher] Pull OrchestrationId dd1c441b-6659-431c-aea0-716ff1bcaa05.auto-review.__default from JWT claims
+[2025-03-05 09:56:58Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-03-05 09:56:58Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-03-05 09:56:58Z INFO JobDispatcher] Job request cad215eb-fcc7-536d-22da-ec9d20430cdf processed succeed.
+[2025-03-05 09:56:58Z INFO Terminal] WRITE LINE: 2025-03-05 09:56:58Z: Running job: auto-review
+[2025-03-05 09:56:58Z INFO JobDispatcher] Start renew job request 4 for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 09:56:59Z INFO JobDispatcher] Successfully renew job request 4, job is valid till 05/03/2025 10.06.59
+[2025-03-05 09:56:59Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper] Starting process:
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   File name: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Worker'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 150 153'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Working directory: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-03-05 09:56:59Z INFO ProcessInvokerWrapper] Process started with process id 37137, waiting for process exit.
+[2025-03-05 09:56:59Z INFO JobDispatcher] Send job request message to worker for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 09:56:59Z INFO ProcessChannel] Sending message of length 46031, with hash 'dedb86ed320246a0b206e6c1f387bc0f3fde53e6cce5299e012ac9a1a668e5df'
+[2025-03-05 09:57:00Z INFO JobNotification] Entering JobStarted Notification
+[2025-03-05 09:57:00Z INFO JobNotification] Entering StartMonitor
+[2025-03-05 09:57:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 09:57:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 09:57:13Z INFO ProcessInvokerWrapper] Finished process 37137 with exit code 102, and elapsed time 00:00:13.7382559.
+[2025-03-05 09:57:13Z INFO JobDispatcher] Worker finished for job cad215eb-fcc7-536d-22da-ec9d20430cdf. Code: 102
+[2025-03-05 09:57:13Z INFO JobDispatcher] finish job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf with result: Failed
+[2025-03-05 09:57:13Z INFO Terminal] WRITE LINE: 2025-03-05 09:57:13Z: Job auto-review completed with result: Failed
+[2025-03-05 09:57:13Z INFO JobDispatcher] Stop renew job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 09:57:13Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 4.
+[2025-03-05 09:57:13Z INFO JobNotification] Entering JobCompleted Notification
+[2025-03-05 09:57:13Z INFO JobNotification] Entering EndMonitor
+[2025-03-05 09:57:13Z INFO MessageListener] Received job status event. JobState: Online
+[2025-03-05 10:02:53Z INFO MessageListener] Message '6766132057561273260' received from session 'fa3b52c2-c7b2-48a9-9a4e-d1479b6e9582'.
+[2025-03-05 10:02:53Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 10:02:53Z INFO ConfigurationStore] stored True
+[2025-03-05 10:02:53Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 10:02:53Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 10:02:53Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 10:02:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:02:53Z INFO ActionsRunServer] EstablishVssConnection
+[2025-03-05 10:02:53Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-03-05 10:02:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:02:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:02:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:02:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:02:56Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 10:02:57Z INFO JobDispatcher] Job request 5 for plan 6cd37a0c-479b-49dd-a473-cd15ada5759b job cad215eb-fcc7-536d-22da-ec9d20430cdf received.
+[2025-03-05 10:02:57Z INFO JobDispatcher] Pull OrchestrationId 6cd37a0c-479b-49dd-a473-cd15ada5759b.auto-review.__default from JWT claims
+[2025-03-05 10:02:57Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-03-05 10:02:57Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-03-05 10:02:57Z INFO JobDispatcher] Job request cad215eb-fcc7-536d-22da-ec9d20430cdf processed succeed.
+[2025-03-05 10:02:57Z INFO Terminal] WRITE LINE: 2025-03-05 10:02:57Z: Running job: auto-review
+[2025-03-05 10:02:57Z INFO JobDispatcher] Start renew job request 5 for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:02:58Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 05/03/2025 10.12.58
+[2025-03-05 10:02:58Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper] Starting process:
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   File name: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Worker'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 150 153'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Working directory: '/Users/catalyst/Documents/AI AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-03-05 10:02:58Z INFO ProcessInvokerWrapper] Process started with process id 37282, waiting for process exit.
+[2025-03-05 10:02:58Z INFO JobDispatcher] Send job request message to worker for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:02:58Z INFO ProcessChannel] Sending message of length 46031, with hash '1179c57df2f18b80ed9774969634bd236a9a0d901987d561ed9bf2091086f609'
+[2025-03-05 10:02:58Z INFO JobNotification] Entering JobStarted Notification
+[2025-03-05 10:02:58Z INFO JobNotification] Entering StartMonitor
+[2025-03-05 10:03:11Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:03:11Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:03:11Z INFO ProcessInvokerWrapper] Finished process 37282 with exit code 102, and elapsed time 00:00:13.1381213.
+[2025-03-05 10:03:11Z INFO JobDispatcher] Worker finished for job cad215eb-fcc7-536d-22da-ec9d20430cdf. Code: 102
+[2025-03-05 10:03:11Z INFO JobDispatcher] finish job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf with result: Failed
+[2025-03-05 10:03:11Z INFO Terminal] WRITE LINE: 2025-03-05 10:03:11Z: Job auto-review completed with result: Failed
+[2025-03-05 10:03:11Z INFO JobDispatcher] Stop renew job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:03:11Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 5.
+[2025-03-05 10:03:11Z INFO JobNotification] Entering JobCompleted Notification
+[2025-03-05 10:03:11Z INFO JobNotification] Entering EndMonitor
+[2025-03-05 10:03:11Z INFO MessageListener] Received job status event. JobState: Online
+[2025-03-05 10:05:53Z INFO MessageListener] Message '7640242890602076131' received from session 'fa3b52c2-c7b2-48a9-9a4e-d1479b6e9582'.
+[2025-03-05 10:05:53Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 10:05:53Z INFO ConfigurationStore] stored False
+[2025-03-05 10:05:55Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-03-05 10:05:55Z INFO JobDispatcher] Ensure WorkerDispatcher for job cad215eb-fcc7-536d-22da-ec9d20430cdf run to finish, cancel any running job.
+[2025-03-05 10:05:55Z INFO JobDispatcher] Job request cad215eb-fcc7-536d-22da-ec9d20430cdf processed succeed.
+[2025-03-05 10:05:55Z INFO Runner] Deleting Runner Session...
+[2025-03-05 10:05:55Z ERR  Terminal] WRITE ERROR: An error occurred: Credentials not stored. Must reconfigure.
+[2025-03-05 10:05:55Z ERR  Listener] System.InvalidOperationException: Credentials not stored. Must reconfigure.
+   at GitHub.Runner.Listener.Configuration.CredentialManager.LoadCredentials()
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)

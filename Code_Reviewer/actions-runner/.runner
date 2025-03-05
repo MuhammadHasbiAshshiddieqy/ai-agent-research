@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "hasbi-mac",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/adxekUf0FAqawZcchVgIYZ4BjeDdht0elLosGazJzymHX3YEyU/",
+  "gitHubUrl": "https://github.com/machtwatch/test-ai-reviewer",
+  "workFolder": "_work"
+}

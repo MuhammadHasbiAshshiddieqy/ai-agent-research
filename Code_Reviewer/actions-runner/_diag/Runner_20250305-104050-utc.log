@@ -1,0 +1,343 @@
+[2025-03-05 10:40:50Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'Credentials': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'Runner': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.runner'
+[2025-03-05 10:40:50Z INFO Listener] Runner is built for OSX (Arm64) - osx-arm64.
+[2025-03-05 10:40:50Z INFO Listener] RuntimeInformation: Darwin 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:16 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6000.
+[2025-03-05 10:40:50Z INFO Listener] Version: 2.322.0
+[2025-03-05 10:40:50Z INFO Listener] Commit: 0edc478ca75d0a753dcbcec7405f3f26db67b1ac
+[2025-03-05 10:40:50Z INFO Listener] Culture: en-ID
+[2025-03-05 10:40:50Z INFO Listener] UI Culture: en-ID
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO Listener] Validating directory permissions for: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO CommandLineParser] Parse
+[2025-03-05 10:40:50Z INFO CommandLineParser] Parsing 1 args
+[2025-03-05 10:40:50Z INFO CommandLineParser] parsing argument
+[2025-03-05 10:40:50Z INFO CommandLineParser] HasArgs: False
+[2025-03-05 10:40:50Z INFO CommandLineParser] Adding Command: run
+[2025-03-05 10:40:50Z INFO Listener] Arguments parsed
+[2025-03-05 10:40:50Z INFO Runner] ExecuteCommand
+[2025-03-05 10:40:50Z INFO ConfigurationStore] currentAssemblyLocation: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Listener.dll
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] binPath: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] RootFolder: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'Runner': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.runner'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] ConfigFilePath: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.runner
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'Credentials': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] CredFilePath: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_migrated'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] MigratedCredFilePath: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_migrated
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'Service': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.service'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.service
+[2025-03-05 10:40:50Z INFO CommandSettings] Flag 'help': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Flag 'version': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Flag 'check': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Command 'configure': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Command 'remove': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-03-05 10:40:50Z INFO ConfigurationManager] LoadSettings
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsConfigured()
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-05 10:40:50Z INFO ConfigurationManager] Is configured: True
+[2025-03-05 10:40:50Z INFO ConfigurationStore] Read setting file: 302 chars
+[2025-03-05 10:40:50Z INFO ConfigurationManager] Settings Loaded
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-03-05 10:40:50Z INFO CommandSettings] Command 'run': 'True'
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsConfigured()
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-05 10:40:50Z INFO ConfigurationManager] Is configured: True
+[2025-03-05 10:40:50Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-03-05 10:40:50Z INFO Runner] Set runner startup type - Manual
+[2025-03-05 10:40:50Z INFO CommandSettings] Flag 'once': 'False'
+[2025-03-05 10:40:50Z INFO CommandSettings] Flag 'once': 'False'
+[2025-03-05 10:40:50Z INFO Runner] RunAsync
+[2025-03-05 10:40:50Z INFO ConfigurationManager] LoadSettings
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsConfigured()
+[2025-03-05 10:40:50Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-05 10:40:50Z INFO ConfigurationManager] Is configured: True
+[2025-03-05 10:40:50Z INFO ConfigurationManager] Settings Loaded
+[2025-03-05 10:40:50Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "hasbi-mac",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/adxekUf0FAqawZcchVgIYZ4BjeDdht0elLosGazJzymHX3YEyU/",
+  "GitHubUrl": "https://github.com/machtwatch/test-ai-reviewer",
+  "WorkFolder": "_work"
+}
+[2025-03-05 10:40:50Z INFO MessageListener] Loading Credentials
+[2025-03-05 10:40:50Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 10:40:50Z INFO ConfigurationStore] stored True
+[2025-03-05 10:40:50Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 10:40:50Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 10:40:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:40:50Z INFO HostContext] Well known directory 'Root': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner'
+[2025-03-05 10:40:50Z INFO HostContext] Well known config file 'RSACredentials': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams'
+[2025-03-05 10:40:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:40:50Z INFO MessageListener] Attempt to create session.
+[2025-03-05 10:40:50Z INFO MessageListener] Connecting to the Runner Server...
+[2025-03-05 10:40:50Z INFO RunnerServer] EstablishVssConnection
+[2025-03-05 10:40:50Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-03-05 10:40:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:40:50Z INFO RunnerServer] EstablishVssConnection
+[2025-03-05 10:40:50Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-03-05 10:40:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:40:50Z INFO RunnerServer] EstablishVssConnection
+[2025-03-05 10:40:50Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-03-05 10:40:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:40:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:40:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:40:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:40:51Z INFO MessageListener] VssConnection created
+[2025-03-05 10:40:51Z INFO Terminal] WRITE LINE: 
+[2025-03-05 10:40:51Z INFO Terminal] WRITE LINE: 
+[2025-03-05 10:40:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:40:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:40:53Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 10:40:53Z INFO MessageListener] Session created.
+[2025-03-05 10:40:53Z INFO Terminal] WRITE LINE: Current runner version: '2.322.0'
+[2025-03-05 10:40:53Z INFO Terminal] WRITE LINE: 2025-03-05 10:40:53Z: Listening for Jobs
+[2025-03-05 10:40:53Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-03-05 10:40:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:40:54Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 10:41:27Z INFO MessageListener] Message '1755376880912746152' received from session '54b2a648-7075-400e-968c-b878ad82e3e3'.
+[2025-03-05 10:41:27Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 10:41:27Z INFO ConfigurationStore] stored True
+[2025-03-05 10:41:27Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 10:41:27Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 10:41:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 10:41:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:41:27Z INFO ActionsRunServer] EstablishVssConnection
+[2025-03-05 10:41:27Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-03-05 10:41:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:41:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:41:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:41:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:41:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 10:41:30Z INFO JobDispatcher] Job request 16 for plan 300b58bb-290c-45f4-991c-c942a23445e1 job cad215eb-fcc7-536d-22da-ec9d20430cdf received.
+[2025-03-05 10:41:30Z INFO JobDispatcher] Pull OrchestrationId 300b58bb-290c-45f4-991c-c942a23445e1.auto-review.__default from JWT claims
+[2025-03-05 10:41:30Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-03-05 10:41:30Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-03-05 10:41:30Z INFO Terminal] WRITE LINE: 2025-03-05 10:41:30Z: Running job: auto-review
+[2025-03-05 10:41:30Z INFO JobDispatcher] Start renew job request 16 for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:41:31Z INFO JobDispatcher] Successfully renew job request 16, job is valid till 05/03/2025 10.51.30
+[2025-03-05 10:41:31Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper] Starting process:
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   File name: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Worker'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 151 154'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Working directory: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-03-05 10:41:31Z INFO ProcessInvokerWrapper] Process started with process id 39255, waiting for process exit.
+[2025-03-05 10:41:31Z INFO JobDispatcher] Send job request message to worker for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:41:31Z INFO ProcessChannel] Sending message of length 46049, with hash 'cb0854a33c838fc5978e88a778319d5c63de4dbf5f94f7a56cbbb5e3844d245f'
+[2025-03-05 10:41:31Z INFO JobNotification] Entering JobStarted Notification
+[2025-03-05 10:41:31Z INFO JobNotification] Entering StartMonitor
+[2025-03-05 10:41:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:41:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:41:42Z INFO ProcessInvokerWrapper] Finished process 39255 with exit code 100, and elapsed time 00:00:11.3066669.
+[2025-03-05 10:41:42Z INFO JobDispatcher] Worker finished for job cad215eb-fcc7-536d-22da-ec9d20430cdf. Code: 100
+[2025-03-05 10:41:42Z INFO JobDispatcher] finish job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf with result: Succeeded
+[2025-03-05 10:41:42Z INFO Terminal] WRITE LINE: 2025-03-05 10:41:42Z: Job auto-review completed with result: Succeeded
+[2025-03-05 10:41:42Z INFO JobDispatcher] Stop renew job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:41:42Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 16.
+[2025-03-05 10:41:42Z INFO JobNotification] Entering JobCompleted Notification
+[2025-03-05 10:41:42Z INFO JobNotification] Entering EndMonitor
+[2025-03-05 10:41:42Z INFO MessageListener] Received job status event. JobState: Online
+[2025-03-05 10:43:15Z INFO MessageListener] Message '6687442720886050917' received from session '54b2a648-7075-400e-968c-b878ad82e3e3'.
+[2025-03-05 10:43:15Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 10:43:15Z INFO ConfigurationStore] stored True
+[2025-03-05 10:43:15Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 10:43:15Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 10:43:15Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 10:43:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:43:15Z INFO ActionsRunServer] EstablishVssConnection
+[2025-03-05 10:43:15Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-03-05 10:43:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:43:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:43:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:43:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:43:17Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 10:43:18Z INFO JobDispatcher] Job request 17 for plan 9a6ed1da-bfad-4edb-ae73-38e8169f04e8 job cad215eb-fcc7-536d-22da-ec9d20430cdf received.
+[2025-03-05 10:43:18Z INFO JobDispatcher] Pull OrchestrationId 9a6ed1da-bfad-4edb-ae73-38e8169f04e8.auto-review.__default from JWT claims
+[2025-03-05 10:43:18Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-03-05 10:43:18Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-03-05 10:43:18Z INFO JobDispatcher] Job request cad215eb-fcc7-536d-22da-ec9d20430cdf processed succeed.
+[2025-03-05 10:43:18Z INFO Terminal] WRITE LINE: 2025-03-05 10:43:18Z: Running job: auto-review
+[2025-03-05 10:43:18Z INFO JobDispatcher] Start renew job request 17 for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:43:19Z INFO JobDispatcher] Successfully renew job request 17, job is valid till 05/03/2025 10.53.19
+[2025-03-05 10:43:19Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper] Starting process:
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   File name: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Worker'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 133 152'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Working directory: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-03-05 10:43:19Z INFO ProcessInvokerWrapper] Process started with process id 39297, waiting for process exit.
+[2025-03-05 10:43:19Z INFO JobDispatcher] Send job request message to worker for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:43:19Z INFO ProcessChannel] Sending message of length 46049, with hash '5ca9ebec1eb32385936bdebf7a85f2af7656225d3eef0ee0629dd2bd81e85bd7'
+[2025-03-05 10:43:19Z INFO JobNotification] Entering JobStarted Notification
+[2025-03-05 10:43:19Z INFO JobNotification] Entering StartMonitor
+[2025-03-05 10:43:29Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:43:29Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:43:29Z INFO ProcessInvokerWrapper] Finished process 39297 with exit code 102, and elapsed time 00:00:10.2924457.
+[2025-03-05 10:43:29Z INFO JobDispatcher] Worker finished for job cad215eb-fcc7-536d-22da-ec9d20430cdf. Code: 102
+[2025-03-05 10:43:29Z INFO JobDispatcher] finish job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf with result: Failed
+[2025-03-05 10:43:29Z INFO Terminal] WRITE LINE: 2025-03-05 10:43:29Z: Job auto-review completed with result: Failed
+[2025-03-05 10:43:29Z INFO JobDispatcher] Stop renew job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:43:29Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 17.
+[2025-03-05 10:43:29Z INFO JobNotification] Entering JobCompleted Notification
+[2025-03-05 10:43:29Z INFO JobNotification] Entering EndMonitor
+[2025-03-05 10:43:29Z INFO MessageListener] Received job status event. JobState: Online
+[2025-03-05 10:46:00Z INFO MessageListener] Message '1230553900768382747' received from session '54b2a648-7075-400e-968c-b878ad82e3e3'.
+[2025-03-05 10:46:00Z INFO ConfigurationStore] HasCredentials()
+[2025-03-05 10:46:00Z INFO ConfigurationStore] stored True
+[2025-03-05 10:46:00Z INFO CredentialManager] GetCredentialProvider
+[2025-03-05 10:46:00Z INFO CredentialManager] Creating type OAuth
+[2025-03-05 10:46:00Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-05 10:46:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:46:00Z INFO ActionsRunServer] EstablishVssConnection
+[2025-03-05 10:46:00Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-03-05 10:46:00Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-05 10:46:01Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-05 10:46:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:46:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/.credentials_rsaparams
+[2025-03-05 10:46:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-05 10:46:03Z INFO JobDispatcher] Job request 18 for plan 8f02d0db-840a-465e-8d74-1b39d9d60bcc job cad215eb-fcc7-536d-22da-ec9d20430cdf received.
+[2025-03-05 10:46:03Z INFO JobDispatcher] Pull OrchestrationId 8f02d0db-840a-465e-8d74-1b39d9d60bcc.auto-review.__default from JWT claims
+[2025-03-05 10:46:03Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-03-05 10:46:03Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-03-05 10:46:03Z INFO JobDispatcher] Job request cad215eb-fcc7-536d-22da-ec9d20430cdf processed succeed.
+[2025-03-05 10:46:03Z INFO Terminal] WRITE LINE: 2025-03-05 10:46:03Z: Running job: auto-review
+[2025-03-05 10:46:03Z INFO JobDispatcher] Start renew job request 18 for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:46:04Z INFO JobDispatcher] Successfully renew job request 18, job is valid till 05/03/2025 10.56.04
+[2025-03-05 10:46:04Z INFO HostContext] Well known directory 'Bin': '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper] Starting process:
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   File name: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin/Runner.Worker'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 133 152'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Working directory: '/Users/catalyst/Documents/AI_AGENT/ai-agent-research/Code_Reviewer/actions-runner/bin'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-03-05 10:46:04Z INFO ProcessInvokerWrapper] Process started with process id 39448, waiting for process exit.
+[2025-03-05 10:46:04Z INFO JobDispatcher] Send job request message to worker for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:46:04Z INFO ProcessChannel] Sending message of length 46049, with hash '26137d61e57f83ea46ea71703c8e1ceda567c8ee450de305aa4ac6459a7e09a1'
+[2025-03-05 10:46:05Z INFO JobNotification] Entering JobStarted Notification
+[2025-03-05 10:46:05Z INFO JobNotification] Entering StartMonitor
+[2025-03-05 10:46:18Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:46:18Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-03-05 10:46:18Z INFO ProcessInvokerWrapper] Finished process 39448 with exit code 102, and elapsed time 00:00:13.9382503.
+[2025-03-05 10:46:18Z INFO JobDispatcher] Worker finished for job cad215eb-fcc7-536d-22da-ec9d20430cdf. Code: 102
+[2025-03-05 10:46:18Z INFO JobDispatcher] finish job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf with result: Failed
+[2025-03-05 10:46:18Z INFO Terminal] WRITE LINE: 2025-03-05 10:46:18Z: Job auto-review completed with result: Failed
+[2025-03-05 10:46:18Z INFO JobDispatcher] Stop renew job request for job cad215eb-fcc7-536d-22da-ec9d20430cdf.
+[2025-03-05 10:46:18Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 18.
+[2025-03-05 10:46:18Z INFO JobNotification] Entering JobCompleted Notification
+[2025-03-05 10:46:18Z INFO JobNotification] Entering EndMonitor
+[2025-03-05 10:46:18Z INFO MessageListener] Received job status event. JobState: Online
+[2025-03-05 10:48:19Z INFO Terminal] WRITE LINE: Exiting...
+[2025-03-05 10:48:19Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-03-05 10:48:19Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-03-05 10:48:19Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2025-03-05 10:48:19Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=54b2a648-7075-400e-968c-b878ad82e3e3&status=Online&runnerVersion=2.322.0&os=macOS&architecture=ARM64&disableUpdate=false has been cancelled.
+[2025-03-05 10:48:19Z ERR  BrokerServer] Catch exception during request
+[2025-03-05 10:48:19Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2025-03-05 10:48:19Z ERR  BrokerServer] #####################################################
+[2025-03-05 10:48:19Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2025-03-05 10:48:19Z ERR  BrokerServer] #####################################################
+[2025-03-05 10:48:19Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2025-03-05 10:48:19Z ERR  BrokerServer] #####################################################
+[2025-03-05 10:48:19Z ERR  BrokerServer] System.Net.Sockets.SocketException (89): Operation canceled
+[2025-03-05 10:48:19Z WARN BrokerServer] Back off 5,88 seconds before next retry. 4 attempt left.
+[2025-03-05 10:48:19Z INFO MessageListener] Get next message has been cancelled.
+[2025-03-05 10:48:19Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-03-05 10:48:19Z INFO JobDispatcher] Ensure WorkerDispatcher for job cad215eb-fcc7-536d-22da-ec9d20430cdf run to finish, cancel any running job.
+[2025-03-05 10:48:19Z INFO JobDispatcher] Job request cad215eb-fcc7-536d-22da-ec9d20430cdf processed succeed.
+[2025-03-05 10:48:19Z INFO Runner] Deleting Runner Session...
+[2025-03-05 10:48:19Z INFO Listener] Runner execution been cancelled.

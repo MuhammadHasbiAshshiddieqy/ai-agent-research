@@ -1,0 +1,5 @@
+{
+    "file":"main.go",
+    "starting_line":200,
+    "code":"var err error\na := 1 \n<CHANGED_LINE>a, err = strconv.Atoi(\"2\")\n<CHANGED_LINE>b := \"Tes\""
+}
