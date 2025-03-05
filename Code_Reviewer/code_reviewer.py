@@ -36,9 +36,10 @@ changed_code = "\n".join(changed_lines)
 prompt_template = PromptTemplate.from_template(
     """
     You are an AI assistant specialized in code review.  
-    Your task is to review the provided Golang code snippet **strictly based on the given rules**.  
+    Your task is to review the provided Golang code snippet **primarily based on the given rules**,  
+    but you may use general best practices to enhance the review when necessary.  
 
-    🚨 **Do not introduce any additional rules beyond those stated below.** 🚨  
+    🚨 **Do not introduce arbitrary or unnecessary rules.** 🚨  
 
     ## **Rules for Code Review**  
     {code_rules}
@@ -46,21 +47,19 @@ prompt_template = PromptTemplate.from_template(
     1️⃣ **Only review the lines marked with `<CHANGED_LINE>`**.  
        - Ignore all other lines.  
        - The first line of the provided code starts at **line {start_line}** in `{file_name}`.  
-       - Each `<CHANGED_LINE>` corresponds to its actual line number in the file.
-       - Return empty list if there is no `<CHANGED_LINE>` or all code meet the rules
+       - Each `<CHANGED_LINE>` corresponds to its actual line number in the file.  
+       - If no meaningful issues are found, provide a brief confirmation that the changes align with best practices.  
 
-    2️⃣ Identify and report only the following issues:  
+    2️⃣ Identify and report the following issues **(if applicable)**:  
         - Code redundancy  
         - Inefficient logic  
         - Security vulnerabilities  
         - Bad coding practices  
-        - Bad coding complexity  
+        - High complexity that reduces maintainability  
         - Unnecessary dependencies  
 
-    3️⃣ Do **not** comment on:  
-        - Variable naming unless it violates best practices  
-        - Code style unless it affects readability  
-        - Any issues outside the categories above  
+    3️⃣ You **may** provide suggestions beyond these categories if they improve readability, maintainability, or performance,  
+        but avoid nitpicking minor style issues unless they significantly impact code quality.  
 
     4️⃣ Your review **must** follow this JSON format:  
     ```json
@@ -78,8 +77,13 @@ prompt_template = PromptTemplate.from_template(
     }}
     ```
 
-    - **If no code modification is needed**, set `"code_change": null`.  
-    - **If a code modification is required**, provide the updated code snippet inside `"code_change"`.
+    - **If no issues are found**, return:  
+      ```json
+      {{
+          "review": []
+      }}
+      ```  
+    - **If a code modification is required**, provide the updated code snippet inside `"code_change"`.  
 
     Now, review the following changed lines from `{file_name}` (starting at line {start_line}):  
 
@@ -87,7 +91,7 @@ prompt_template = PromptTemplate.from_template(
     {changed_code}
     ```
 
-    **Your output must strictly follow the JSON format provided.**
+    **Your output must be valid JSON following the specified format.**
     """
 )
 

@@ -1,4 +1,7 @@
 - always use lower case for output
 - Only review line that start with `<CHANGED_LINE>` tag
 - Line always start with `<NEW_LINE>` tag
+- Variable name must be clear to define something
+- The code start from line {start_line}
+- error must be handled and logged
 - `<CHANGED_LINE>` and `<NEW_LINE>` is not part of code
